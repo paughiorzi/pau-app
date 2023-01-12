@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pau-app/static/css/main.ae4c6b75.css",
+    "main.js": "/pau-app/static/js/main.e732aba1.js",
+    "static/js/787.78ee699a.chunk.js": "/pau-app/static/js/787.78ee699a.chunk.js",
+    "static/media/triangulo.gif": "/pau-app/static/media/triangulo.6bf8eb6441c2abd2dafc.gif",
+    "index.html": "/pau-app/index.html",
+    "main.ae4c6b75.css.map": "/pau-app/static/css/main.ae4c6b75.css.map",
+    "main.e732aba1.js.map": "/pau-app/static/js/main.e732aba1.js.map",
+    "787.78ee699a.chunk.js.map": "/pau-app/static/js/787.78ee699a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae4c6b75.css",
+    "static/js/main.e732aba1.js"
+  ]
+}
